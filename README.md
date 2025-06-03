@@ -1,2 +1,3 @@
-# Automatic-Modulation-Recognition-Baseline-Code-Pytorch-
-Some backbone networks commonly used in AMR (Pytorch Version)
+# EDDA：An Efficient Divide and Conquer Domain Adapter for Automatics Modulation Recognition
+
+This is official code of paper "EDDA：An Efficient Divide and Conquer Domain Adapter for Automatics Modulation Recognition".
